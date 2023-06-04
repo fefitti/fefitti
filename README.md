@@ -1,7 +1,7 @@
 <span align="center">
 
 
-## *Hi🖖! Vamos conhecer minha trajetória?*
+## *Hi🖖! Bora conhecer a minha Jornada?*
 
 </span>
 
