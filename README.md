@@ -67,7 +67,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 # Formações Diversas:
 
 -  ☁️  GCP
-  
+
 -  🐞  Quality Assurance 
 
 -  👩🏻‍💼 Srum Master 
@@ -77,7 +77,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 - 🔒  Specialist Cybersecurity 
 
 - 🌐  Specialist Internet of Things IoT
-  
+
 - 🤖  Specialist Machine Learning 
 
 -  🚀  SQL Database Specialist 
@@ -111,11 +111,9 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  -  👩‍🏫  Inglês - Avançado 
  
  -  👩‍🏫  Espanhol - Básico
-  
+
 # Projetos:
-<a href="https://sites.google.com/view/botbrisado/home" target="_blank">[![undefined](https://lh4.googleusercontent.com/0maV6JAENmoRT4Ibj3XmYSdcxm0bXv-YiQ7M_kCOLEpIi0z5xd1pcmDR898MeqSCvXjh0-EfR5C1ppjhVXaFbgw=w16383 "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
-
-
+[IA Conversacional - ChatBot](https://sites.google.com/view/botbrisado/home "IA Conversacional - ChatBot")[![undefined](https://lh4.googleusercontent.com/0maV6JAENmoRT4Ibj3XmYSdcxm0bXv-YiQ7M_kCOLEpIi0z5xd1pcmDR898MeqSCvXjh0-EfR5C1ppjhVXaFbgw=w16383 "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
 
   
 </span>
