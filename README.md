@@ -117,6 +117,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 
 # Docs:
 [Letter](https://github.com/fefitti/fefitti/blob/main/LETTER.pdf "Letter")
+  
 [Curriculum Vitae](https://github.com/fefitti/fefitti/blob/main/CV%20Fernanda%20Fittipaldi%20Santos%20-%20EN-US.pdf "Curriculum Vitae")
 
 </span>
