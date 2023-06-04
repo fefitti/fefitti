@@ -1,7 +1,7 @@
 <span align="center">
 
 
-## *Hi🖖! Bora vem comigo nessa Jornada?👩‍🚀👩‍💻*
+## *Hi🖖! Vem comigo nessa Jornada?👩‍🚀👩‍💻*
 
 </span>
 
@@ -26,7 +26,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,django,dotnet,dynamodb,eclipse,figma,git,github,gitlab,gherkin,gtk,haxe,html,java,js,jenkins,jest,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,sass,spring,selenium,tensorflow,ts,unity,v,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,ansible,arduino,ai,aws,azure,bash,bots,c,cs,cpp,css,dart,discord,django,docker,dotnet,dynamodb,eclipse,figma,firebase,flutter,gcp,git,github,gitlab,gherkin,gtk,haxe,html,java,js,jenkins,jest,jquery,latex,linkedin,linux,kubernetes,matlab,maven,mysql,nodejs,php,postman,powershell,postgres,py,pytorch,r,raspberrypi,react,redux,ruby,stackoverflow,sass,spring,sqlite,selenium,tensorflow,ts,unity,v,vue,visualstudio,vscode,wordpress,xd" />
   </a>
 </p>          
 </div>
