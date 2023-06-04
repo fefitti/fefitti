@@ -51,7 +51,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 
 - ⚙️ Bacharel Engenharia de Software - ANHANGUERA - Cursando
 
-- 📈 Bacharel Analise de Sistemas - PUCRS - Trancado
+- 📈 Bacharel Analise de Sistemas - PUCRS 
 
 
 # Certificação de Título Internacional: 
