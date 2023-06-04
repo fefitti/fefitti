@@ -1,7 +1,7 @@
 <span align="center">
 
 
-## *Hi🖖! Bora conhecer a minha Jornada?*
+## *Hi🖖! 👩‍🚀👩‍💻Bora conhecer a minha Jornada?👩‍🚀👩‍💻*
 
 </span>
 
