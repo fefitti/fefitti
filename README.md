@@ -111,6 +111,11 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  -  👩‍🏫  Inglês - Avançado 
  
  -  👩‍🏫  Espanhol - Básico
+  
+# Projetos:
+<a href="https://sites.google.com/view/botbrisado/home" target="_blank">[![undefined](https://lh4.googleusercontent.com/0maV6JAENmoRT4Ibj3XmYSdcxm0bXv-YiQ7M_kCOLEpIi0z5xd1pcmDR898MeqSCvXjh0-EfR5C1ppjhVXaFbgw=w16383 "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
+
+
 
   
 </span>
