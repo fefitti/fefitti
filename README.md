@@ -113,7 +113,6 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  -  👩‍🏫  Espanhol - Básico
 
 # Projetos:
-[IA Conversacional - ChatBot](https://sites.google.com/view/botbrisado/home "IA Conversacional - ChatBot")[![undefined](https://lh4.googleusercontent.com/0maV6JAENmoRT4Ibj3XmYSdcxm0bXv-YiQ7M_kCOLEpIi0z5xd1pcmDR898MeqSCvXjh0-EfR5C1ppjhVXaFbgw=w16383 "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
+[![undefined](https://github.com/fefitti/fefitti/blob/main/babybot.png "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
 
-  
 </span>
