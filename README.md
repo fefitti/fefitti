@@ -121,5 +121,10 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 [Letter](https://github.com/fefitti/fefitti/blob/main/LETTER.pdf "Letter")
 
 [Curriculum Vitae](https://github.com/fefitti/fefitti/blob/main/CV%20Fernanda%20Fittipaldi%20Santos%20-%20EN-US.pdf "Curriculum Vitae")
+</span>
 
+<span align="center">
+
+# 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=fefitti&theme=onedark)](https://github.com/fefitti/github-profile-trophy)
 </span>
