@@ -19,8 +19,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 <span align="center">
   
 <div align="center">
-  <a href="https://github.com/fefitt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefitti&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/fefitti"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefitti&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
@@ -35,7 +34,8 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  
 <div> 
   <a href = "mailto:fefitti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fefitti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://wa.me/5548991589225" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fefitti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
@@ -128,3 +128,4 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 # 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=fefitti&theme=onedark)](https://github.com/fefitti/github-profile-trophy)
 </span>
+
