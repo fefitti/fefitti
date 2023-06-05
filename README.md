@@ -19,8 +19,8 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 <span align="center">
   
 <div align="center">
-  <a href="https://github.com/fefitti"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefitti&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <a href="https://github.com/fefitti"><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fefitti&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
 <p align="center">
@@ -128,4 +128,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 # 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=fefitti&theme=onedark)](https://github.com/fefitti/github-profile-trophy)
 </span>
+
+# 🎯Contador de acessos do perfil🔝:
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffefitti1212%2Fhit-counter)]
 
