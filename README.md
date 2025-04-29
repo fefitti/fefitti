@@ -19,8 +19,10 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 <span align="center">
   
 <div align="center">
-  <a href="https://github.com/fefitti"><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fefitti&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&theme=dracula"/>
+  <a href="https://github.com/fefitti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefitti&theme=dracula" />
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
 <p align="center">
