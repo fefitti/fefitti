@@ -7,10 +7,21 @@
 
 <span align="justify">
   
-Apaixonada por tecnologia, com uma sólida experiência de 20 anos como analista de sistemas e atualmente especializada em qualidade de software. Meu foco principal é aprimorar a eficiência e a excelência dos processos empresariais por meio da tecnologia.
-Ao longo da minha carreira, desenvolvi um forte interesse por automatização e robótica, o que me levou a criar três protótipos de IA Conversacional. Esses projetos estão constantemente evoluindo e aprendendo, refletindo minha busca contínua por inovação. Tenho habilidades avançadas em suporte técnico, metodologias ágeis e garantia de qualidade de software. Sou especializada em programação em Python e JavaScript, o que me permite criar soluções eficazes e personalizadas para atender às necessidades dos clientes.
-Estou sempre em busca de aprimorar minhas habilidades técnicas, dedicando tempo diariamente para me manter atualizada sobre as tendências emergentes do setor. Como pessoa dedicada, proativa e movida por desafios, estou aberta a oportunidades que me permitam aplicar meus conhecimentos e contribuir para o sucesso de projetos inovadores.
-Convido você a se conectar comigo para explorarmos possíveis sinergias e oportunidades de networking. Juntos, podemos impulsionar o sucesso de projetos e alcançar resultados excepcionais.
+#### 🎯 Sobre mim
+
+Sou apaixonada por tecnologia, com mais de 20 anos de experiência como Analista de Sistemas e atualmente especializada em Qualidade de Software. Ao longo da minha trajetória, tenho buscado constantemente aprimorar processos empresariais por meio da inovação tecnológica.
+Atualmente curso Engenharia de Software, ampliando ainda mais minha base técnica e estratégica. Tenho grande interesse por automação, robótica e inteligência artificial, áreas que me motivaram a desenvolver três protótipos de IA Conversacional — projetos que continuam evoluindo e aprendendo, refletindo minha dedicação ao aprendizado contínuo.
+
+#### 💻 Minhas habilidades incluem:
+
+Garantia de Qualidade de Software (testes manuais e automatizados)
+Metodologias ágeis (Scrum, Kanban, BDD, TDD)
+Programação em Python e JavaScript
+Suporte técnico e melhoria de processos
+Sou uma profissional proativa, dedicada e movida por desafios. Dedico parte do meu dia a me manter atualizada com as tendências do setor, explorando novas ferramentas, linguagens e boas práticas de desenvolvimento e teste.
+
+#### 📬 Vamos nos conectar!
+Estou aberta a colaborações em projetos inovadores e oportunidades de networking que valorizem qualidade, criatividade e tecnologia..
   
 </span>
 
@@ -68,7 +79,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 
 -  ☁️  GCP
 
--  🐞  Quality Assurance 
+-  🐞  Quality Assurance Engineering
 
 -  👩🏻‍💼 Srum Master 
 
@@ -108,7 +119,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 
  -  👩‍🏫  Portguês - Nativo
 
- -  👩‍🏫  Inglês - Avançado 
+ -  👩‍🏫  Inglês - Intermediário
  
  -  👩‍🏫  Espanhol - Básico
 <span align="center">
