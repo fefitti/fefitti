@@ -15,14 +15,12 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 </span>
 
 #
-
 <span align="center">
-  
 <div align="center">
   <a href="https://github.com/fefitti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefitti&theme=dracula" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fefitti&theme=dracula" />
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefitti&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
 <p align="center">
@@ -113,7 +111,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  -  👩‍🏫  Inglês - Avançado 
  
  -  👩‍🏫  Espanhol - Básico
-
+<span align="center">
 # Projetos:
 <span align="center">
   
