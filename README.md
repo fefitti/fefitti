@@ -112,6 +112,7 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  
  -  👩‍🏫  Espanhol - Básico
 <span align="center">
+
 # Projetos:
 <span align="center">
   
