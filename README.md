@@ -115,6 +115,8 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
  -  👩‍🏫  Espanhol - Básico
 
 # Projetos:
+<span align="center">
+  
 [![undefined](https://github.com/fefitti/fefitti/blob/main/babybot.png "undefined")](https://sites.google.com/view/botbrisado/home "undefined")
 
 [![undefined](https://github.com/fefitti/fefitti/blob/main/jogo%20pingpong.png "undefined")](https://scratch.mit.edu/projects/764589891 "undefined")
