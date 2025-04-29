@@ -121,9 +121,9 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 [![undefined](https://github.com/fefitti/fefitti/blob/main/jogo%20pingpong.png "undefined")](https://scratch.mit.edu/projects/764589891 "undefined")
 
 # Docs:
-[Letter](https://github.com/fefitti/fefitti/blob/main/LETTER.pdf "Letter")
+[Letter](https://github.com/fefitti/fefitti/blob/main/Carta.pdf "Letter")
 
-[Curriculum Vitae](https://github.com/fefitti/fefitti/blob/main/CV%20Fernanda%20Fittipaldi%20Santos%20-%20EN-US.pdf "Curriculum Vitae")
+[Curriculum Vitae](https://github.com/fefitti/fefitti/blob/main/cvffs03_2025.pdf "Curriculum Vitae")
 </span>
 
 <span align="center">
