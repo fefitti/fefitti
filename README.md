@@ -132,5 +132,6 @@ Convido você a se conectar comigo para explorarmos possíveis sinergias e oport
 </span>
 
 # 🎯Contador de acessos do perfil🔝:
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffefitti1212%2Fhit-counter)
+![Hits](https://img.shields.io/github/watchers/fefitti/fefitti?style=social)
+</span>
 
